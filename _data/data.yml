@@ -43,7 +43,17 @@ experiences:
         + IOT sensors
         + Python
         + Fast API
-
+       
+    - role: Mobile ML Developer
+      time: 2022.03 - 2022.04
+      company: -
+      tag: Freelancing
+      location: Surabaya
+      details: |
+        Tools and Experiance i used in this:
+        + Tensorflow
+        + Flutter / Dart
+        
 projects:
   display: true
   title: Projects
@@ -52,7 +62,12 @@ projects:
       link: https://github.com/Adiguna7/OCR-Javanese-Sundane-Script-API
       details: |
         Optical character recognition for javanese and sundanese script based on PWA.
-
+    
+    - name: ERASTY
+      link:
+      details: |
+        ERASTY is a integrated machine learning drone system that alerts for possible unsafe environments
+    
     - name: DEFBOARD
       link:
       details: |
