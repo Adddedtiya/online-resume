@@ -37,41 +37,26 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    - role: IOT Developer
+      time: 2021.08 - 2021.09
+      company: KYB indonesia
+      tag: Remote, internship
+      location: Bekasi
       details: |
         Experience in this company:
-        + First
-        + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
-      details: |
-        Experience in this company:
-        + First
-        + Second
-
+        + IOT sensors
+        + Python
+        + Fast API
         ...
 
 projects:
   display: true
   title: Projects
-  intro: |
-    This is all the projects I'm involved in.
-
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: Javanese Sundanese OCRJavanese
+      link: https://github.com/Adiguna7/OCR-Javanese-Sundane-Script-API
       details: |
-        Project Foo's detail, you can write markdown format text.
+        Optical character recognition for javanese and sundanese script based on PWA.
 
     - name: Bar
       link:
@@ -84,17 +69,17 @@ skills:
   details: |
     Here is my skills:
     + First
-    + Second
-
     ...
 
   levels:
-    - name: Skill A
+    - name: Python
       level: 90
-    - name: Skill B
+    - name: C# / .net
       level: 80
-    - name: Skill C
-      level: 70
+    - name: Pytorch
+      level: 85
+    - name: Tensorflow
+      level: 85
 
 education:
   display: true
