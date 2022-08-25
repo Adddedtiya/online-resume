@@ -25,13 +25,9 @@ contact:
 
 profile:
   display: true
-  title: Profile
+  title: About
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
+    Recent Graudate of Computer Engineering student at Institut Teknologi Sepuluh Nopember Surabaya. Interested in machine learning, and I demonstrate it by trying many machine learning work experiments, side projects, and conference presentations.
 
 experiences:
   display: true
@@ -47,7 +43,6 @@ experiences:
         + IOT sensors
         + Python
         + Fast API
-        ...
 
 projects:
   display: true
@@ -58,19 +53,15 @@ projects:
       details: |
         Optical character recognition for javanese and sundanese script based on PWA.
 
-    - name: Bar
+    - name: DEFBOARD
       link:
       details: |
-        Project Bar's detail, you can write markdown format text.
+        DEFBOARD is a purpose designed keyboard for alternate HCI systems where the primary input is using feet's.
 
 skills:
   display: true
   title: Skills
-  details: |
-    Here is my skills:
-    + First
-    ...
-
+  details: 
   levels:
     - name: Python
       level: 90
@@ -85,42 +76,37 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
+    - university: Institut Teknologi Sepuluh Nopember Surabaya
+      time: 2018 - 2022
+      major: Computer Engineering
       degree: Bachelor
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
+        GPA : 3.54
+        
 certificates:
   display: true
   title: Certificates
   items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
+    - name: TensorFlow Developer Certificate
+      authority: TensorFlow
+      time: 2022
+      link: https://www.credential.net/f9ed89b3-49e4-4383-99cf-aa4a93596e59
       details: |
-        It's my Course Foo certificate by coursera.
+        TensorFlow Developer Certificate detailing that im more than capable on working on Tensorflow projects
         
 publications:
   display: true
   title: Publications
-  intro: |
-    This is all the books I wrote.
-
+  intro: 
   items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
+    - title: Multilevel Analysis of Temporal-Based Spatial Factors Impact in Dengue Fever Forecasting using RReliefF - Deep Learning
+      authors: Wiwik Anggraeni, Alif Aditya Wicaksono, Mauridhi H Purnomo, Eko Mulyanto Yuniarno, Reza Fuad Rachmadi, Surya Sumpeno
+      conference: 2022 IEEE International Conference on Imaging Systems and Techniques (IST)
+      link: https://ieeexplore.ieee.org/document/9827717
+      
+    - title: Deep Learning Approaches for Daily Climate Forecasting, Case Study: Malang Indonesia
+      authors: Alif Aditya Wicaksono, Wiwik Anggraeni, Mauridhi H Purnomo
+      conference: ITISE, 2022
       link:
 
 patents:
