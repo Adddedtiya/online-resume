@@ -1,25 +1,24 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Alif Aditya Wickasono 
+  title: Machine Learning Developer
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  wechat:
-  whatsapp:
+  email: alipa0728@gmail.com
+  phone: +62-0898-3656-616
+  whatsapp: +62-0898-3656-616
   telegram:
   website: example.com
   medium:
-  linkedin:
+  linkedin: alifadityaw
   googlescholar:
   researchgate:
-  github: github
+  github: Adddedtiya
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
@@ -102,17 +101,6 @@ education:
   title: Education
   items:
     - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
       time: 2011 - 2015
       major: Computer Science
       degree: Bachelor
@@ -133,12 +121,7 @@ certificates:
       link:
       details: |
         It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
-
+        
 publications:
   display: true
   title: Publications
@@ -156,7 +139,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -166,7 +149,7 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Bahasa Indonesia
       level: Native
     - idiom: English
       level: Professional
@@ -181,7 +164,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
@@ -191,7 +174,7 @@ evaluation:
     ...
 
 footer:
-  display: true
+  display: false
 
 close: >
   Sorry, my resume has been hidden.
